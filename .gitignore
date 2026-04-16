@@ -1,0 +1,9 @@
+.dotnet-home/
+.dotnet-cli/
+.nuget/
+bin/
+obj/
+*.sln
+*.slnx
+*.user
+*.suo
