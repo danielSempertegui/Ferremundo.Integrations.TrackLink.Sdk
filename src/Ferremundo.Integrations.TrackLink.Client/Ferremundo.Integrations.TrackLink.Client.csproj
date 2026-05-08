@@ -11,6 +11,6 @@
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Ferremundo.Integrations.Rest" Version="1.0.0-alpha.1" />
+    <PackageReference Include="Ferremundo.Integrations.Rest" Version="1.0.0-alpha.2" />
   </ItemGroup>
 </Project>
