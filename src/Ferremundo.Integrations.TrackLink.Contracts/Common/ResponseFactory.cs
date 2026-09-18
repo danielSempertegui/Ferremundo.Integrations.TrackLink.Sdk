@@ -4,7 +4,7 @@ public static class ResponseFactory
 {
     public static ResponseBase<T> Success<T>(
         T data,
-        string message = "Request completed successfully.",
+        string message = ResponseMessages.RequestCompleted,
         string code = ResponseCodes.Success)
     {
         return new ResponseBase<T>
